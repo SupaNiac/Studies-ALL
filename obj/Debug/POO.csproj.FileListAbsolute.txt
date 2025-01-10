@@ -1,0 +1,7 @@
+C:\Users\Luiz Henrique\Desktop\Faculdade\C# - NanoDegree\.vs\C# - NanoDegree\POO\bin\Debug\POO.exe.config
+C:\Users\Luiz Henrique\Desktop\Faculdade\C# - NanoDegree\.vs\C# - NanoDegree\POO\bin\Debug\POO.exe
+C:\Users\Luiz Henrique\Desktop\Faculdade\C# - NanoDegree\.vs\C# - NanoDegree\POO\bin\Debug\POO.pdb
+C:\Users\Luiz Henrique\Desktop\Faculdade\C# - NanoDegree\.vs\C# - NanoDegree\POO\obj\Debug\POO.csproj.AssemblyReference.cache
+C:\Users\Luiz Henrique\Desktop\Faculdade\C# - NanoDegree\.vs\C# - NanoDegree\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Henrique\Desktop\Faculdade\C# - NanoDegree\.vs\C# - NanoDegree\POO\obj\Debug\POO.exe
+C:\Users\Luiz Henrique\Desktop\Faculdade\C# - NanoDegree\.vs\C# - NanoDegree\POO\obj\Debug\POO.pdb
