@@ -1,0 +1,10 @@
+C:\Users\Luiz Henrique\source\repos\Aula16.2\bin\Debug\Aula16.2.exe.config
+C:\Users\Luiz Henrique\source\repos\Aula16.2\bin\Debug\Aula16.2.exe
+C:\Users\Luiz Henrique\source\repos\Aula16.2\bin\Debug\Aula16.2.pdb
+C:\Users\Luiz Henrique\source\repos\Aula16.2\obj\Debug\Aula16.2.csproj.AssemblyReference.cache
+C:\Users\Luiz Henrique\source\repos\Aula16.2\obj\Debug\Aula16._2.Form1.resources
+C:\Users\Luiz Henrique\source\repos\Aula16.2\obj\Debug\Aula16._2.Properties.Resources.resources
+C:\Users\Luiz Henrique\source\repos\Aula16.2\obj\Debug\Aula16.2.csproj.GenerateResource.cache
+C:\Users\Luiz Henrique\source\repos\Aula16.2\obj\Debug\Aula16.2.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Henrique\source\repos\Aula16.2\obj\Debug\Aula16.2.exe
+C:\Users\Luiz Henrique\source\repos\Aula16.2\obj\Debug\Aula16.2.pdb
